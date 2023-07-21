@@ -1,5 +1,5 @@
 package com.leetCodeQs;
-
+// SOLUTION PENDING
 //Link to Q: https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/
 
 import java.util.stream.*;
